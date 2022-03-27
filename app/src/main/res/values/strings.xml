@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="add_value">Add Value</string>
+    <string name="add_title">Add Title</string>
+    <string name="add_message">Add Message</string>
+    <string name="update_value">Update Value</string>
+</resources>
